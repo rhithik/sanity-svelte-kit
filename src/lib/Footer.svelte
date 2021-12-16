@@ -37,8 +37,8 @@
 <style>
   footer {
     text-align: center;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
     display: flex;
     align-items: center;
     justify-content: center;
